@@ -1,8 +1,5 @@
 # personal-finance
 
-# Define the markdown content from the document
-markdown_content = """# 📊 Personal Finance App - Tech Stack Overview
-
 ## ✨ Goal
 
 A simple, scalable personal finance app for daily use on iPhone – accessible anytime, supports manual entry of spending data, and enables backend-powered data analysis with Python.
