@@ -1,4 +1,5 @@
-# Sigma $\sum$Spend
+# Sigma $\sum\text{Spend}$
+
 
 ## ✨ Goal
 
