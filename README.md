@@ -1,4 +1,4 @@
-# personal-finance
+# Sigma Spend \Sigma
 
 ## ✨ Goal
 
