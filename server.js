@@ -37,6 +37,31 @@ app.get('/', async (req, res) => {
 });
 
 
+// api endpoints
+const creditCardRoutes = require('./routes/creditCards');
+app.use('/api/credit-cards', creditCardRoutes);
+
+
+const budgetRoutes = require('./routes/budgets');
+app.use('/api/budgets', budgetRoutes);
+
+const budgetPeriodRoutes = require('./routes/budgetPeriods');
+app.use('/api/budget-periods', budgetPeriodRoutes);
+
+const transactionRoutes = require('./routes/transactions');
+app.use('/api/transactions', transactionRoutes);
+
+const recurringRoutes = require('./routes/recurring');
+app.use('/api/recurring', recurringRoutes);
+
+
+
+
+
+
+
+
+
 // Start server
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);

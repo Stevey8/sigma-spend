@@ -137,8 +137,20 @@ ON DUPLICATE KEY UPDATE
 
 
 INSERT INTO transactions (
-    id, user_id, travel_id, budget_id, name, currency, price, personal_amount,
-    category, subcategory, notes, datetime, payment, credit_card_id
+    id, 
+    user_id, 
+    travel_id, 
+    budget_id, 
+    name, 
+    currency, 
+    price, 
+    personal_amount,
+    category, 
+    subcategory, 
+    notes, 
+    datetime, 
+    payment, 
+    credit_card_id
 ) VALUES (
     1,
     1,
@@ -184,7 +196,8 @@ INSERT INTO recurring_templates (
     frequency_type,
     custom_interval_days,
     next_scheduled_date,
-    notes
+    notes,
+    active
 ) VALUES (
     1,
     1,
@@ -198,7 +211,8 @@ INSERT INTO recurring_templates (
     'monthly',
     NULL,
     '2025-05-01',
-    'Recurring rent payment every 1st of the month'
+    'Recurring rent payment every 1st of the month',
+    TRUE
 )
 ON DUPLICATE KEY UPDATE
     name = VALUES(name),
@@ -211,4 +225,5 @@ ON DUPLICATE KEY UPDATE
     frequency_type = VALUES(frequency_type),
     custom_interval_days = VALUES(custom_interval_days),
     next_scheduled_date = VALUES(next_scheduled_date),
-    notes = VALUES(notes);
+    notes = VALUES(notes),
+    active = VALUES(active);

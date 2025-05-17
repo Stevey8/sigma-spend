@@ -1,0 +1,414 @@
+name,price,category
+uber eats,25.00,restaurant
+trattoria nervosa, 112.50,restaurant
+bar chef, 160.00,restaurant
+McDonald's,9.49,restaurant
+mcdonalds,36.42,restaurant
+Subway,11.25,restaurant
+Subway,5.84,restaurant
+Subway,49.92,restaurant
+Subway,16.2,restaurant
+Subway,23.5,restaurant
+Starbucks,7.15,restaurant
+Tim Hortons,6.80,restaurant
+Wendy's,10.99,restaurant
+Burger King,9.75,restaurant
+Chipotle Mexican Grill,13.50,restaurant
+Popeyes Louisiana Kitchen,12.30,restaurant
+A&W,10.25,restaurant
+Taco Bell,8.45,restaurant
+KFC,11.90,restaurant
+Pizza Pizza,18.00,restaurant
+Domino's Pizza,23.00,restaurant
+Panera Bread,14.60,restaurant
+Harvey's,10.20,restaurant
+Five Guys,17.75,restaurant
+Booster Juice,8.10,restaurant
+Jimmy the Greek,13.40,restaurant
+Mucho Burrito,14.25,restaurant
+Jollibee,12.60,restaurant
+Chick-fil-A,11.45,restaurant
+The Keg Steakhouse,125.00,restaurant
+Earls Kitchen + Bar,65.00,restaurant
+Cactus Club Cafe,70.00,restaurant
+Joey Restaurants,68.50,restaurant
+Milestones Grill + Bar,60.00,restaurant
+Swiss Chalet,45.00,restaurant
+Montana's BBQ & Bar,55.25,restaurant
+Boston Pizza,48.00,restaurant
+Moxies,58.00,restaurant
+Jack Astor's Bar & Grill,53.75,restaurant
+Hero Certified Burgers,14.90,restaurant
+Banh Mi Boys,10.10,restaurant
+Sweet Jesus,7.50,restaurant
+Freshii,12.30,restaurant
+Kinton Ramen,16.00,restaurant
+Sansotei Ramen,15.50,restaurant
+Pho Hung,14.40,restaurant
+Denny's,18.20,restaurant
+IHOP,19.00,restaurant
+Eggsmart,17.85,restaurant
+Sunset Grill,20.10,restaurant
+Paramount Fine Foods,24.00,restaurant
+Lazeez Shawarma,13.75,restaurant
+Shawarma Palace,14.10,restaurant
+Me Va Me,21.00,restaurant
+Kelseys Original Roadhouse,49.00,restaurant
+St. Louis Bar & Grill,46.00,restaurant
+The Pickle Barrel,52.00,restaurant
+The Cheesecake Factory,68.00,restaurant
+Red Lobster,85.00,restaurant
+Olive Garden,60.00,restaurant
+Ruth's Chris Steak House,210.00,restaurant
+Scaddabush,59.00,restaurant
+The Captain's Boil,75.00,restaurant
+Osmow's,14.60,restaurant
+Union Chicken,22.00,restaurant
+Rolltation Sushi Burrito,13.80,restaurant
+Basil Box,12.90,restaurant
+Kibo Sushi House,25.00,restaurant
+Sushi Garden,26.00,restaurant
+Sakura Sushi,24.50,restaurant
+The Sushi Bar,30.00,restaurant
+Sushi Inn,28.00,restaurant
+Sushi Kaji,180.00,restaurant
+Yasu Toronto,220.00,restaurant
+Miku Toronto,170.00,restaurant
+JaBistro,150.00,restaurant
+Pai Northern Thai Kitchen,55.00,restaurant
+Khao San Road,50.00,restaurant
+Salad King,22.00,restaurant
+Fresh Restaurants,19.00,restaurant
+Kupfert & Kim,18.00,restaurant
+The WORKS Gourmet Burger Bistro,21.00,restaurant
+Fat Bastard Burrito Co.,14.00,restaurant
+Smoke's Poutinerie,11.50,restaurant
+Poutineville,15.00,restaurant
+El Furniture Warehouse,19.00,restaurant
+Bovine Sex Club,16.00,restaurant
+Sneaky Dee's,23.00,restaurant
+Steam Whistle Biergärten,40.00,restaurant
+Amsterdam BrewHouse,48.00,restaurant
+Bellwoods Brewery,45.00,restaurant
+In-N-Out Burger,8.75,restaurant
+Shake Shack,12.60,restaurant
+Raising Cane's,10.45,restaurant
+Wingstop,14.90,restaurant
+White Castle,7.80,restaurant
+Waffle House,12.00,restaurant
+Cracker Barrel,16.50,restaurant
+Whataburger,9.80,restaurant
+Del Taco,9.25,restaurant
+Zaxby's,11.75,restaurant
+Culver's,10.95,restaurant
+Checkers & Rally's,8.60,restaurant
+Church's Texas Chicken,10.75,restaurant
+Sonny's BBQ,22.00,restaurant
+Golden Corral,21.00,restaurant
+California Pizza Kitchen,38.00,restaurant
+Bubba Gump Shrimp Co.,58.00,restaurant
+Cheddar's Scratch Kitchen,32.00,restaurant
+The Melting Pot,120.00,restaurant
+P.F. Chang's,65.00,restaurant
+Pei Wei Asian Diner,18.00,restaurant
+Benihana,100.00,restaurant
+Kura Revolving Sushi Bar,30.00,restaurant
+Sapporo Sushi & Ramen,28.00,restaurant
+Din Tai Fung,55.00,restaurant
+Yang Chow Restaurant,40.00,restaurant
+Panda Express,12.30,restaurant
+L&L Hawaiian Barbecue,15.50,restaurant
+El Pollo Loco,13.00,restaurant
+Taco Cabana,11.00,restaurant
+Cafe Rio,14.00,restaurant
+Moe's Southwest Grill,13.50,restaurant
+Carrabba's Italian Grill,44.00,restaurant
+Maggiano's Little Italy,58.00,restaurant
+Buca di Beppo,75.00,restaurant
+Macaroni Grill,42.00,restaurant
+Lucille's Smokehouse BBQ,52.00,restaurant
+Texas Roadhouse,60.00,restaurant
+Bonefish Grill,66.00,restaurant
+BJ's Restaurant & Brewhouse,54.00,restaurant
+Yard House,58.00,restaurant
+Seasons 52,65.00,restaurant
+Fogo de Chão,110.00,restaurant
+Morton's The Steakhouse,230.00,restaurant
+Joe's Crab Shack,78.00,restaurant
+Nobu,300.00,restaurant
+Sugarfish,95.00,restaurant
+Portillo's,14.75,restaurant
+The Halal Guys,13.00,restaurant
+Halal Shack,12.50,restaurant
+Honeygrow,14.20,restaurant
+Just Salad,13.10,restaurant
+Tender Greens,16.00,restaurant
+Slutty Vegan,15.60,restaurant
+Velvet Taco,13.80,restaurant
+No Frills,32.00,grocery
+Loblaws,45.00,grocery
+Metro,16.28,grocery
+Metro,5.99,grocery
+Metro,168.34,grocery
+Metro,50.01,grocery
+Metro,200.00,grocery
+shoppers,28.42,grocery
+Sobeys,43.00,grocery
+FreshCo,29.00,grocery
+IGA,34.00,grocery
+T&T Supermarket,50.00,grocery
+H Mart,46.00,grocery
+Costco,150.00,grocery
+7-Eleven,12.00,grocery
+7-11, 16.84,grocery
+711,64.3,grocery
+Circle K,11.00,grocery
+Whole Foods Market,60.00,grocery
+Rabba's Fine Foods,70.00,grocery
+Supermarkets,135.32,grocery
+Foodmart,98.12,grocery
+Apple,4.20,grocery
+Fruit,7.9,grocery
+Milk,5.50,grocery
+Chicken Breast,12.30,grocery
+Red Bull and Cranberry Juice,7.80,grocery
+Eggs,4.90,grocery
+Pasta and Tomato Sauce,6.50,grocery
+Frozen Dumplings,9.75,grocery
+Greek Yogurt,6.00,grocery
+Loaf of Bread,3.40,grocery
+Rice,18.00,grocery
+subway,3.3,transportation
+subway,20,transportation
+subway,30,transportation
+subway,40,transportation
+subway,50,transportation
+metro,3.3,transportation
+metro,20,transportation
+metro,30,transportation
+metro,40,transportation
+metro,50,transportation
+TTC,3.3,transportation
+TTC Reload,30.00,transportation
+PRESTO Reload,50.00,transportation
+VIVA Bus,4.25,transportation
+YRT,3.75,transportation
+GO Transit,8.60,transportation
+UP Express,12.35,transportation
+SkyTrain,3.15,transportation
+TransLink Reload,25.00,transportation
+Compass Card Reload,40.00,transportation
+OC Transpo,3.75,transportation
+STM,3.75,transportation
+MTA,2.90,transportation
+PATH Train,2.75,transportation
+Uber,18.50,transportation
+Lyft,16.80,transportation
+UberPool,10.20,transportation
+UberX,22.60,transportation
+Carshare (Zipcar),11.50,transportation
+Taxi,14.75,transportation
+Parking Garage,12.00,transportation
+Street Parking,4.00,transportation
+Gas Station Fill-up,65.00,transportation
+Gas - Partial Fill,30.00,transportation
+Shell Gas,50.00,transportation
+Costco Gas,45.00,transportation
+Esso Gas,55.00,transportation
+Petro-Canada Gas,52.00,transportation
+Chevron Gas,58.00,transportation
+Air Canada,325.00,transportation
+WestJet,298.00,transportation
+Porter Airlines,185.00,transportation
+United Airlines,410.00,transportation
+Delta Airlines,430.00,transportation
+American Airlines,390.00,transportation
+Alaska Airlines,360.00,transportation
+BC Ferries,21.00,transportation
+Toronto Island,9.09,transportation
+Turo,105.00,transportation
+Car Rental,75.00,transportation
+Park,0.00,entertainment
+Movie Theater,15.00,entertainment
+Concert Ticket,95.00,entertainment
+Bowling,22.00,entertainment
+Mini Golf,18.00,entertainment
+Arcade,25.00,entertainment
+Escape Room,35.00,entertainment
+Museum Admission,16.00,entertainment
+Art Gallery Visit,12.00,entertainment
+Aquarium,29.00,entertainment
+Zoo,27.50,entertainment
+Theatre Play,55.00,entertainment
+Amusement Park,89.00,entertainment
+Board Game Café,10.00,entertainment
+Karaoke,28.00,entertainment
+Casino,60.00,entertainment
+Comedy Club,40.00,entertainment
+Indoor Climbing,25.00,entertainment
+Ice Skating,12.00,entertainment
+Trampoline Park,22.00,entertainment
+Virtual Reality Arcade,30.00,entertainment
+Paintball,45.00,entertainment
+Laser Tag,20.00,entertainment
+Planetarium,14.00,entertainment
+Anime Convention Ticket,70.00,entertainment
+Book Reading Event,5.00,entertainment
+Live Sports Game,110.00,entertainment
+Beach Volleyball Rental,18.00,entertainment
+Stand-up Paddleboard Rental,35.00,entertainment
+Indoor Pool Pass,9.00,entertainment
+Fireworks Show,0.00,entertainment
+Toronto Zoo,29.00,entertainment
+The Rec Room,35.00,entertainment
+Electric Daisy Carnival (EDC),155.00,entertainment
+The Fifth Social Club,25.00,entertainment
+Disneyland Park,160.00,entertainment
+Universal Studios,145.00,entertainment
+Broadway Show,130.00,entertainment
+Ripley's Aquarium of Canada,44.00,entertainment
+CN Tower EdgeWalk,99.00,entertainment
+Six Flags Theme Park,85.00,entertainment
+Madame Tussauds Wax Museum,32.00,entertainment
+Blue Man Group Show,75.00,entertainment
+Dave & Buster's,40.00,entertainment
+Las Vegas Magic Show,65.00,entertainment
+Cirque du Soleil,120.00,entertainment
+Toronto Symphony Orchestra,60.00,entertainment
+Hollywood Walk of Fame,0.00,entertainment
+Griffith Observatory,10.00,entertainment
+Santa Monica Pier,0.00,entertainment
+The Getty Center,0.00,entertainment
+Warner Bros. Studio Tour Hollywood,72.00,entertainment
+The Wizarding World of Harry Potter,135.00,entertainment
+Dodger Stadium Game,55.00,entertainment
+Central Park,0.00,entertainment
+Times Square,0.00,entertainment
+Empire State Building Observatory,44.00,entertainment
+Metropolitan Museum of Art,30.00,entertainment
+Museum of Modern Art (MoMA),28.00,entertainment
+Statue of Liberty Cruise,25.00,entertainment
+Broadway Musical,120.00,entertainment
+Grouse Mountain Gondola,65.00,entertainment
+Capilano Suspension Bridge,62.00,entertainment
+Science World Vancouver,28.00,entertainment
+VanDusen Botanical Garden,11.00,entertainment
+Vancouver Aquarium,42.00,entertainment
+Stanley Park Horse-Drawn Tour,45.00,entertainment
+Disney's Hollywood Studios (Orlando),150.00,entertainment
+EPCOT (Orlando),150.00,entertainment
+SeaWorld Orlando,120.00,entertainment
+Universal’s Islands of Adventure,155.00,entertainment
+Magic Kingdom,160.00,entertainment
+Grand Hyatt,310.00,entertainment
+Courtyard by Marriott,190.00,entertainment
+The Ritz-Carlton,520.00,entertainment
+Holiday Inn,160.00,entertainment
+Hilton Garden Inn,185.00,entertainment
+Fairmont Hotels & Resorts,400.00,entertainment
+Marriott Marquis,350.00,entertainment
+Hyatt Regency,290.00,entertainment
+Sheraton Hotels,260.00,entertainment
+Four Seasons Hotel,600.00,entertainment
+DoubleTree by Hilton,210.00,entertainment
+The Westin,280.00,entertainment
+Element Hotels,175.00,entertainment
+JW Marriott,450.00,entertainment
+Residence Inn,225.00,entertainment
+W Hotels,430.00,entertainment
+Kimpton Hotels,370.00,entertainment
+Loews Hotels,300.00,entertainment
+Omni Hotels & Resorts,320.00,entertainment
+Best Western,140.00,entertainment
+liquor store,45.00,entertainment
+alcohol,45.00,entertainment
+vodka,45.00,entertainment
+tequila,45.00,entertainment
+beers,45.00,entertainment
+Sephora,78.00,shopping
+Canadian Tire,45.00,shopping
+IKEA,250.00,shopping
+Walmart,60.00,shopping
+Hudson’s Bay,120.00,shopping
+Shoppers,79.38,shopping
+Costco,95.00,shopping
+Best Buy,300.00,shopping
+Ross Dress for Less,40.00,shopping
+Marshalls,55.00,shopping
+HomeSense,80.00,shopping
+Winners,50.00,shopping
+Indigo,35.00,shopping
+Dollarama,12.00,shopping
+Uniqlo,65.00,shopping
+H&M,48.00,shopping
+Nike Store,110.00,shopping
+Adidas Outlet,95.00,shopping
+Lululemon,125.00,shopping
+Apple Store,1350.00,shopping
+Shoes,85.00,shopping
+Desk,140.00,shopping
+Bed Frame,450.00,shopping
+Mattress,780.00,shopping
+Bookshelf,90.00,shopping
+Office Chair,130.00,shopping
+Backpack,70.00,shopping
+Headphones,220.00,shopping
+Water Bottle,25.00,shopping
+Sunglasses,150.00,shopping
+Winter Jacket,220.00,shopping
+T-shirt,25.00,shopping
+Skincare Products,60.00,shopping
+Makeup Kit,95.00,shopping
+Phone Charger,30.00,shopping
+TV,600.00,shopping
+Monitor,275.00,shopping
+Furniture Set,1100.00,shopping
+Luggage,160.00,shopping
+Blanket,45.00,shopping
+Uniqlo,235.00,shopping
+Amazon,150.00,shopping
+Haircut,35.00,health & wellness
+Nail Spa,50.00,health & wellness
+Gym Day Pass,18.00,health & wellness
+Monthly Gym Membership,60.00,health & wellness
+Yoga Class,22.00,health & wellness
+Massage Therapy,90.00,health & wellness
+Acupuncture Session,75.00,health & wellness
+Chiropractor Visit,80.00,health & wellness
+Physiotherapy Session,85.00,health & wellness
+Physio,170.00,health & wellness
+Basketball Drop-In,6.00,health & wellness
+Swimming Pool Pass,7.00,health & wellness
+Zumba Class,15.00,health & wellness
+Personal Training Session,65.00,health & wellness
+Pilates Class,20.00,health & wellness
+Hot Stone Massage,100.00,health & wellness
+Facial Treatment,70.00,health & wellness
+Spin Class,18.00,health & wellness
+Meditation Session,10.00,health & wellness
+Boxing Class,25.00,health & wellness
+Rock Climbing Drop-In,16.00,health & wellness
+Wellness Retreat Deposit,200.00,health & wellness
+Dental Cleaning,120.00,health & wellness
+Vision Test,95.00,health & wellness
+Optometrist Appointment,110.00,health & wellness
+Shoppers, 55.28,health & wellness
+Rent,1800.00,bills
+Electricity Bill,90.00,bills
+Water Bill,45.00,bills
+Internet Bill,75.00,bills
+Mobile Phone Bill,60.00,bills
+Home Insurance,110.00,bills
+Car Insurance,130.00,bills
+Tenant Insurance,25.00,bills
+Streaming Subscription (Netflix),16.99,bills
+Streaming Subscription (Spotify),10.99,bills
+Credit Card Minimum Payment,100.00,bills
+Student Loan Payment,250.00,bills
+Health Insurance Premium,180.00,bills
+Garbage & Recycling Fee,30.00,bills
+Condo Maintenance Fee,325.00,bills
+Property Tax Installment,900.00,bills
+Tuition Installment,3500.00,bills
+Parking Permit,90.00,bills
+
