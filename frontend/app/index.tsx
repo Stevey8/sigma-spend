@@ -10,7 +10,8 @@ export default function IndexPage() {
       <Text style={styles.title}>💸 Sigma Spend</Text>
       <Text style={styles.subtitle}>Sum up your life, the Sigma way.</Text>
 
-      <Link href="/transactions" style={styles.link}>➕ Add Transaction</Link>
+      <Link href="/transactions" style={styles.link}>💰 Transaction</Link>
+      <Link href="/transactions/new" style={styles.link}>➕ Add Transaction</Link>
       <Link href="/budgets" style={styles.link}>📊 Budgets</Link>
       <Link href="/travel" style={styles.link}>✈️ Travel</Link>
       <Link href="/cards" style={styles.link}>💳 Credit Cards</Link>
